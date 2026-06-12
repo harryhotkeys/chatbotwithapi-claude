@@ -97,8 +97,11 @@ Add token usage statistics
 Add settings menu
 Add retry button for failed requests
 Add API key configuration inside the application
-Author
 
+
+<img width="502" height="628" alt="image" src="https://github.com/user-attachments/assets/77f6fe7b-07c3-422a-846a-190cc0a2ed89" />
+
+Author
 Created by harryhotkeys.
 
 License
